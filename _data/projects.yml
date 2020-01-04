@@ -1,0 +1,19 @@
+- name: App For Alzheimer Patients
+  date: Sep 2019 – Nov 2019
+  content: An Android app to help people suffering from Alzheimer’s disease, to make their life easier.
+  tech_stack: Android, Firebase
+
+- name: Website For IET-CLN Conference
+  date: Oct 2019 – Oct 2019
+  content: A website built for a national conference.
+  tech_stack: HTML, CSS, JavaScript
+
+- name: Website For ACM-ICPC
+  date: Oct 2019 – Oct 2019
+  content: A website built for a coding competition conducted by ACM-ICPC in our college.
+  tech_stack: HTML, CSS, JavaScript
+
+- name: Orphanage Resource Locator
+  date: Feb 2019 – Apr 2019
+  content: An Android app for users to find nearby orphanages and donate to them. The orphanage management can also post their needs so that the donors can donate to them.
+  tech_stack: Android, Firebase

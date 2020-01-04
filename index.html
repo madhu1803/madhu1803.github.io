@@ -161,8 +161,40 @@ permalink: /
 </section>
 <!-- work experience end -->
 
+<!-- work projects start -->
+<section id="projects" class="white-section timeline-section">
+	<div class="row section-intro">
+		<div class="col-twelve">
+			<h5>Projects</h5>
+			<h1>Yup, Look what I did</h1>
+		</div>
+	</div>
+	<div class="row resume-timeline">
+		<div class="col-twelve">
+			<div class="timeline-wrap">
+				{% for data in site.data.projects %}
+				<div class="timeline-block">
+					<div class="timeline-ico">
+						<i class="fa fa-code-fork"></i>
+					</div>
+					<div class="timeline-header">
+						<p>{{ data.date }}</p>
+					</div>
+					<div class="timeline-content">
+						<h4>{{ data.name }}</h4>
+						<p class="job-description">{{ data.content }}</p>
+						<p class="tech-stack"><span>Tech Stack:</span> {{ data.tech_stack }}</p>
+					</div>
+				</div>
+				{% endfor %}
+			</div>
+		</div>
+	</div>
+</section>
+<!-- work projects end -->
+
 <!-- education start -->
-<section id="education" class="white-section timeline-section">
+<section id="education" class="grey-section timeline-section">
 	<div class="row section-intro">
 		<div class="col-twelve">
 			<h5>Education</h5>
