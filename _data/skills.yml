@@ -1,5 +1,11 @@
-- name: Django
+- name: HTML
+  value: 75
+
+- name: CSS
+  value: 70
+
+- name: JavaScript
   value: 80
 
 - name: React
-  value: 75
+  value: 30

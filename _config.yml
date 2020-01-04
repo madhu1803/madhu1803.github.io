@@ -1,19 +1,12 @@
-title: Ajai Danial | Portfolio
-email: ajaidanial@gmail.com
-author: Ajai Danial
-description: A techie, with crazy passion to develop and deploy cognitive applications.
+title: Madhumithaa | Portfolio
+email: madhumithaa1411@gmail.com
+author: Madhumithaa
+description: A sassy woman, with crazy passion to develop applications.
 about: >
     Loves experimenting with code, teamwork and challenging opportunities.
-    Have developed and deployed applications across different domains, platforms and
-    frameworks. Has good knowledge and experience on building RESTful API’s, ORM
-    and component based development. I am definitely not the best, but try me!!!
-    <br />
-    <br />
-    I love writing clean and structured code. Love it when my code is properly formatted and indented. I
-    have got great passion towards development, deployment and optimizing servers.
-    Definitely can’t write my own code, I mostly copy & paste, but you give me a job,
-    I know, How to do it? What to do? and How not to do it? Have
-    successfully won a few hackathons, completed a few client projects and learnt a lot from the rest.
+    Has good knowledge in HTML, CSS and JavaScript. Currently learning React.
+    Definitely can’t write my own code, I mostly copy & paste. But ya, "Every Boss Started As A Worker".
+    I am definitely not the best, but try me!!!
 simpleform_url: "https://getsimpleform.com/messages?form_api_token=99de8832756f8b978ef637a1c0add178"
 baseurl: ""
 url: ""
@@ -22,3 +15,6 @@ theme: minima
 plugins:
     - jekyll-feed
     - jekyll-gzip
+# TODO: sitemap.xml
+# TODO: google analytics
+# TODO: Resume
