@@ -8,4 +8,7 @@
   value: 80
 
 - name: React
+  value: 40
+
+- name: Nodejs
   value: 30
