@@ -1,14 +1,14 @@
-- name: HTML
+- name: HTML, CSS, JavaScript
   value: 75
-
-- name: CSS
-  value: 70
-
-- name: JavaScript
-  value: 80
 
 - name: React
   value: 40
 
 - name: Nodejs
-  value: 30
+  value: 35
+
+- name: Android
+  value: 35
+
+- name: Firebase
+  value: 40
